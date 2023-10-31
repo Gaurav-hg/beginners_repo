@@ -1,11 +1,21 @@
-h2{
+h2 {
     color: orange;
 }
-p{
+
+p {
     color: white;
     background-color: black;
+    font-size: 18px;
+    padding: 15px;
 }
-button{
+
+button {
     color: white;
     background-color: blue;
+    padding: 10px;
+    position: relative;
+    left: 45%;
+    right: 50%;
+    top: 10px;
+    font-size: large;
 }
